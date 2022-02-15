@@ -1,6 +1,14 @@
 # GithubSearch
+## Description
+Application that consumes REST API and that allows a user to enter a Github username into a form,submit it, and see names and descriptions of that person's public repositories.
+
+## Author
+Zachary Gichiri
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+
+## Live Link
+
 
 ## Development server
 
@@ -21,6 +29,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+### License
+This is under the [MIT](LICENSE) license
+Copyright (c) 2021 **Zachary Gichiri**
 
 ## Further help
 
