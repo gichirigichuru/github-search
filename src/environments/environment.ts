@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  
+  apiUrl: 'https://api.github.com/users/',
+  access_token: "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"
 };
 
 /*
@@ -14,3 +17,4 @@ export const environment = {
  * on performance if an error is thrown.
  */
 // import 'zone.js/plugins/zone-error';  // Included with Angular CLI.
+//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
